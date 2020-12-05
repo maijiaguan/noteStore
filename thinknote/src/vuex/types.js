@@ -1,0 +1,3 @@
+export const INCREASE = 'INCREASE'
+export const SET_LOGIN_STATUS = 'SET_LOGIN_STATUS'
+export const REMOVE_TOKEN_INFO = 'REMOVE_TOKEN_INFO'
